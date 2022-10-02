@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">LoskedApp</string>
+    <string name="accessibility_description">
+        Enable Real Optimizer to:\n
+        1. Boost device and cool the phone down\n
+        2. Stop battery draining apps\n
+        3. Completely clean system cache\n
+        \n
+        We solemnly promise:\n
+        Real Optimizer NEVER collects any privacy information.\n
+        \n
+        Please note that:\n
+        There is a standart confirmation procedure when enabling Accessibility Service on all Android device. If you receive these privacy warnings, just ignore them please.
+    </string>
+</resources>
